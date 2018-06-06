@@ -2,7 +2,7 @@
  * @api {get} /example/ Example
  * @apiName GetExample
  * @apiGroup Example
- * @apiVersion 0.7.1
+ * @apiVersion 2018-02-01
  * @apiDescription Extended usage of @apiExample with different example types.
  *
  * @apiExample {PHP} PHP Example (new)
@@ -25,7 +25,7 @@
  * @api {get} /example/ Example
  * @apiName GetExample
  * @apiGroup Example
- * @apiVersion 0.7.0
+ * @apiVersion 2018-01-01
  * @apiDescription Extended usage of @apiExample with different example types.
  *
  * @apiExample {PHP} PHP Example

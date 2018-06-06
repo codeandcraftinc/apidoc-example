@@ -1,6 +1,6 @@
 define({
   "name": "test",
-  "version": "0.13.0",
+  "version": "2018-02-01",
   "description": "RESTful web API Documentation Generator",
   "url": "https://api.github.com/v1",
   "sampleUrl": "https://api.github.com/v1",

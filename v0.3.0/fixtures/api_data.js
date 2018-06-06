@@ -169,7 +169,7 @@ define({ "api": [
     "title": "Example",
     "name": "GetExample",
     "group": "Example",
-    "version": "0.7.1",
+    "version": "2018-02-01",
     "description": "<p>Extended usage of @apiExample with different example types.</p>",
     "examples": [
       {
@@ -225,7 +225,7 @@ define({ "api": [
     "title": "Example",
     "name": "GetExample",
     "group": "Example",
-    "version": "0.7.0",
+    "version": "2018-01-01",
     "description": "<p>Extended usage of @apiExample with different example types.</p>",
     "examples": [
       {
